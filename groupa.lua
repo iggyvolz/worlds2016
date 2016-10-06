@@ -21,7 +21,7 @@ local teams=table.new{
     name="ROX Tigers"
   }
 }
-for g2rox=1,2 do
+for g2rox=2,2 do
   for anxclg=1,2 do
     for clgg2=1,2 do
       for anxrox=1,2 do
