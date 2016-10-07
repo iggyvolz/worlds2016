@@ -22,7 +22,7 @@ local teams=table.new{
   }
 }
 for g2rox=2,2 do
-  for anxclg=1,2 do
+  for anxclg=2,2 do
     for clgg2=1,2 do
       for anxrox=1,2 do
         for g2anx=1,2 do
